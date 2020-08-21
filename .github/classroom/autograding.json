@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "test01",
+      "name": "test01.py",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest test01.py",
       "input": "",
@@ -11,7 +11,7 @@
       "points": 100
     },
     {
-      "name": "test02",
+      "name": "test02.py",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest test02.py",
       "input": "",
